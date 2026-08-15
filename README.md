@@ -4,13 +4,14 @@ A responsive personal portfolio for Great_mujey.
 
 ## Preview
 
-[![MUJEY Portfolio Preview](https://via.placeholder.com/900x500.png?text=MUJEY+Portfolio+Preview)](https://abdullahimujeeb0505-stack.github.io/Great_mujey-portfolio/)
+[![MUJEY Portfolio Preview](https://via.placeholder.com/900x500.png?text=MUJEY+Portfolio+Preview)](https://htmlpreview.github.io/?https://github.com/abdullahimujeeb0505-stack/Great_mujey-portfolio/blob/main/index.html)
 
-> Click the image to view the live portfolio (will be published via GitHub Pages).
+> Click the image to view a live preview of the portfolio (served via htmlpreview.github.io).
 
 ## View the live portfolio
 
-- Live portfolio: https://abdullahimujeeb0505-stack.github.io/Great_mujey-portfolio/
+- GitHub Pages (when enabled): https://abdullahimujeeb0505-stack.github.io/Great_mujey-portfolio/
+- HTMLPreview (instant preview): https://htmlpreview.github.io/?https://github.com/abdullahimujeeb0505-stack/Great_mujey-portfolio/blob/main/index.html
 
 ## Certifications
 
